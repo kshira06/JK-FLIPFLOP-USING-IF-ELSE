@@ -63,9 +63,7 @@ Register Number: 212224040166
 
 
 **RTL**
-
 ![image](https://github.com/user-attachments/assets/51e85be7-a562-464d-9def-f20093b4652f)
-
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
